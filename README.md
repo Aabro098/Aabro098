@@ -20,8 +20,11 @@
   <a href="https://fb.com/arbin.shrestha.9047" target="blank" style="margin-right: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook logo" height="40" width="40" />
   </a>
-  <a href="https://www.instagram.com/arbin_sth/" target="blank">
+  <a href="https://www.instagram.com/arbin_sth/" target="blank" style="margin-right: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram logo" height="40" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/arbin-shrestha-469548317/" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn logo" height="40" width="40" />
   </a>
 </p>
 
